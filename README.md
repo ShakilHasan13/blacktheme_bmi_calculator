@@ -1,6 +1,10 @@
 # bmi_calculator
 
 A beautiful BMI Calculator with amazing UI
+#Output
+![WhatsApp Image 2023-05-26 at 3 44 48 AM](https://github.com/ShakilHasan13/blacktheme_bmi_calculator/assets/112377142/cf9aa7d1-4201-4bb1-83ec-d9a327c5120a)
+
+![WhatsApp Image 2023-05-26 at 3 44 37 AM](https://github.com/ShakilHasan13/blacktheme_bmi_calculator/assets/112377142/50c9a70c-c567-4d3b-8805-22b143bf25d1)
 
 ## Getting Started
 
